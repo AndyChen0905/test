@@ -2,5 +2,6 @@
 
 ## Introduction
 
-This is a nice product!(/)
+This is a nice product!
+
 but it also has some problems.

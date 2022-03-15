@@ -15,5 +15,3 @@ Here are the contents that this repository includes:
 ### Comments
 I think this book will be useful for those who want to learn machine learning. Actually, reading this book requires some advanced mathematics and physics skills. So maybe reading this book can be a good way to challenge myself and improve my abilities.
 
-
-
